@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cloudflow-frontend
+  labels:
+    app: cloudflow-frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: cloudflow-frontend
+  template:
+    metadata:
+      labels:
+        app: cloudflow-frontend
+    spec:
+      containers:
+      - name: frontend
+        image: cloudflow-frontend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 80
+          name: http
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "250m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cloudflow-frontend-service
+  labels:
+    app: cloudflow-frontend
+spec:
+  type: LoadBalancer
+  selector:
+    app: cloudflow-frontend
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+    name: http
