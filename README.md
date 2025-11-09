@@ -15,7 +15,7 @@
 
 ## 🌐 Quick Access
 
-**🚀 Live Demo:** https://cloudflow.rishigarg.dev
+**🚀 Live Demo:** https://cloudflow.rishigarg.dev 
 **📚 Documentation:** [User Guide](docs/USER_GUIDE.md) | [Architecture](docs/ARCHITECTURE.md) | [Presentation](docs/CloudFlow_Technical_Presentation.pdf)  
 **💻 GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
 
@@ -157,7 +157,7 @@ Machine learning model suggests moves that save **30-40% on storage costs** afte
 
 ## 🚀 Quick Start
 
-### Option 1: Try It Online *(Coming Soon)*
+### Option 1: Try It Online
 Visit **https://cloudflow.rishigarg.dev**
 
 The platform is being deployed to production. Check back soon for the live demo!
@@ -214,7 +214,6 @@ Or register a new account - takes 10 seconds!
 | **User Guide** | Step-by-step tutorial for using CloudFlow | [docs/USER_GUIDE.md](docs/USER_GUIDE.md) |
 | **Architecture** | Technical deep-dive into system design | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) |
 | **Technical Presentation** | Hackathon submission slides (PDF) | [docs/CloudFlow_Technical_Presentation.pdf](docs/CloudFlow_Technical_Presentation.pdf) |
-| **API Documentation** | REST API reference | *(Coming soon)* |
 
 ### Quick Documentation Access
 
@@ -269,7 +268,7 @@ We chose each technology for a specific reason:
 
 | Requirement | Status | Link |
 |------------|--------|------|
-| **Working Prototype** | ✅ Complete | http://localhost:3000 (local) |
+| **Working Prototype** | ✅ Complete | http://localhost:3000 (local) & https://cloudflow.rishigarg.dev (Deployed) |
 | **Technical Presentation (PDF)** | ✅ Complete | [docs/CloudFlow_Technical_Presentation.pdf](docs/CloudFlow_Technical_Presentation.pdf) |
 | **Source Code** | ✅ Complete | [GitHub Repository](https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon) |
 | **README** | ✅ Complete | This file |
@@ -495,7 +494,7 @@ See [LICENSE](LICENSE) file for details.
 ## 📞 Contact & Support
 
 **GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
-**Live Demo:** https://cloudflow.rishigarg.dev   
+**Live Demo:** https://cloudflow.rishigarg.dev 
 **Issues:** [GitHub Issues](https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon/issues)
 
 ---
