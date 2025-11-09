@@ -160,8 +160,6 @@ Machine learning model suggests moves that save **30-40% on storage costs** afte
 ### Option 1: Try It Online
 Visit **https://cloudflow.rishigarg.dev**
 
-The platform is being deployed to production. Check back soon for the live demo!
-
 ### Option 2: Run Locally (2 minutes)
 
 **Prerequisites:**
@@ -260,9 +258,9 @@ We chose each technology for a specific reason:
 </div>
 
 **Event:** NetApp Data in Motion Hackathon 2025  
-**Team:** CloudFlow  
+**Team:**   Garuda  
 **GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
-**Live Demo:** https://cloudflow.rishigarg.dev *(Deployment in progress)*
+**Live Demo:** https://cloudflow.rishigarg.dev
 
 ### 📦 Deliverables
 
