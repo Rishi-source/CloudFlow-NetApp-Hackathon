@@ -15,9 +15,9 @@
 
 ## 🌐 Quick Access
 
-**🚀 Live Demo:** https://cloudflow.rishigarg.dev 
-**📚 Documentation:** [User Guide](docs/USER_GUIDE.md) | [Architecture](docs/ARCHITECTURE.md) | [Presentation](docs/CloudFlow_Technical_Presentation.pdf)  
-**💻 GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
+- **🚀 Live Demo:** https://cloudflow.rishigarg.dev 
+- **📚 Documentation:** [User Guide](docs/USER_GUIDE.md) | [Architecture](docs/ARCHITECTURE.md) | [Presentation](docs/CloudFlow_Technical_Presentation.pdf)  
+- **💻 GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
 
 ---
 
