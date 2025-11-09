@@ -493,9 +493,9 @@ See [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact & Support
 
-**GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
-**Live Demo:** https://cloudflow.rishigarg.dev 
-**Issues:** [GitHub Issues](https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon/issues)
+- **GitHub:** https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon  
+- **Live Demo:** https://cloudflow.rishigarg.dev 
+- **Issues:** [GitHub Issues](https://github.com/Rishi-source/CloudFlow-NetApp-Hackathon/issues)
 
 ---
 
